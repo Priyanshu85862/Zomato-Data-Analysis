@@ -7,7 +7,7 @@ This project explores and visualizes restaurant data from Zomato to uncover insi
 - Python
 - Pandas & NumPy
 - Matplotlib & Seaborn
-- Jupyter/VS Code
+- VS Code
 
 ---
 
